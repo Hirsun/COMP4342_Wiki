@@ -1,1 +1,2 @@
-# COMP4342_Wiki
+# CLC3242P_Wiki
+Wiki for CLC3242P
