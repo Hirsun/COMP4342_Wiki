@@ -1,5 +1,4 @@
 ---
-index: true
 date: 2022-09-01
 article: true
 order: 1
