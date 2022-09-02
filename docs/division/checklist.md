@@ -13,8 +13,8 @@ headerDepth: 2
 ## 前置流程
 
 - [ ] 获取各组员的基本联系方式和紧急联系方式
-- [x] 构建 Wechat 群组 / WhatsApp 群组
-- [x] 构建 Microsoft Teams / 字节飞书 群组
+- [x] 构建 Wechat 群组 / ~~WhatsApp 群组~~
+- [x] 构建 Microsoft Teams / ~~字节飞书 群组~~
 - [x] 构建 项目 Wiki（Github Page)
   - [ ] 配置 编辑权限
 - [ ] 构建 项目 Github 仓库

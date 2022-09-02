@@ -53,7 +53,7 @@ footer: GPL3.0 Licensed | Copyright © 2022 GRPXX
 
 **会议安排**
 
-- 2022年9月2日星期五 晚上8点-9点，Teams 线上，链接见 Teams 群组
+- ~~2022年9月2日星期五 晚上8点-9点，Teams 线上，链接见 Teams 群组~~
 
 **协作方式**
 
@@ -77,4 +77,3 @@ footer: GPL3.0 Licensed | Copyright © 2022 GRPXX
 <br>
 本维基所有内容不可作为任何作业的评分参考。
 </h6>
-
