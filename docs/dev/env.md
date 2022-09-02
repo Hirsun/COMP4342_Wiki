@@ -29,7 +29,13 @@ Windows10/11，Macos 10.15.7 +
 
 ### Android VM
 
+- 请在 Andriod Studio 内设置
 - Pixel 4
 - Android 12 S
 
 ![1662093167744.png](https://static-file.hjm.red/2022/09/02/ed83c2d175e7d.png)
+
+### Chinese Translate
+
+- https://zhuanlan.zhihu.com/p/374517847
+  - 插件版本选择：[212.325](https://plugins.jetbrains.com/plugin/13710-chinese-simplified-language-pack----/versions/stable/142042)	2021.2 — 2021.2.4
