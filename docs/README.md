@@ -10,8 +10,8 @@ actions:
     link: dev
     type: primary
 
-  - text: 口头报告
-    link: oral.html
+  - text: 用户文档
+    link: user
 
 features:
 
@@ -25,7 +25,7 @@ features:
     details: 第一项需要提交的任务<br >占比20%
     link: dev
 
-  - title: 口头报告
+  - title: 用户文档
     icon: community
     details: 第二项需要提交的任务<br >占比30%
     link: oral.html
