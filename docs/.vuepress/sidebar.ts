@@ -4,6 +4,6 @@ export default sidebar({
   "/user/": "structure",
   "/dev/": "structure",
   "/faq/": "structure",
-  "/division/": "structure",
+  "/task/": "structure",
 }
 );

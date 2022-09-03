@@ -18,7 +18,7 @@ features:
   - title: 需求解读
     icon: alias
     details: 需求文档定义和解读<br >任务明确分工、始终时间
-    link: division
+    link: task
 
   - title: 开发文档
     icon: write
