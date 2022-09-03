@@ -19,6 +19,9 @@ headerDepth: 2
   - [ ] 配置 编辑权限
 - [ ] 构建 项目 Github 仓库
   - [ ] 配置 编辑权限
+- [x] 构建 Microsoft Project
+  - [ ] 配置 访问权限
+
 - [ ] 整理建议学习材料
 - [ ] 在 Blackboard 系统上注册小组，DDL： 2022年10月4日（第6周）晚上23:59
 
