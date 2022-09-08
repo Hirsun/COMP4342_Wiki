@@ -3,7 +3,7 @@ home: true
 icon: home
 title: 主页
 heroImage: /logo.png
-heroText: COMP4342 GXX
+heroText: COMP4342 G15
 tagline: 移动计算小组项目 Wiki 
 actions:
   - text: 开发文档
@@ -37,7 +37,7 @@ features:
 
 
 copyright: false
-footer: GPL3.0 Licensed | Copyright © 2022 GRPXX
+footer: GPL3.0 Licensed | Copyright © 2022 GRP15
 ---
 
 ::: tip 团队协作

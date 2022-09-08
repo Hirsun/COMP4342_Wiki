@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://hirsun.github.io/CLC3242P_Wiki/",
 
   author: {
-    name: "GRPXX",
+    name: "GRP15",
     url: "https://hirsun.github.io/COMP4342_Wiki/",
   },
 
