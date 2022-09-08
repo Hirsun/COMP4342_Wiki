@@ -15,11 +15,11 @@ headerDepth: 2
 - [ ] 获取各组员的基本联系方式和紧急联系方式
 - [x] 构建 Wechat 群组 / ~~WhatsApp 群组~~
 - [x] 构建 Microsoft Teams / ~~字节飞书 群组~~
-- [x] 构建 项目 Wiki（Github Page)
+- [x] 构建 项目 Wiki（Github Page / ~~Teams~~)
   - [ ] 配置 编辑权限
 - [ ] 构建 项目 Github 仓库
   - [ ] 配置 编辑权限
-- [x] 构建 Microsoft Project
+- [x] 构建 Microsoft Project / ~~MS Planner~~
   - [ ] 配置 访问权限
 - [ ] 整理建议学习材料
 - [ ] 在 Blackboard 系统上注册小组，DDL： 2022年10月4日（第6周）晚上23:59
@@ -36,6 +36,7 @@ headerDepth: 2
 ## 开发前
 
 - [x] 软件类型确定：~~企业定制软件 企业通用软件~~ 用户通用软件
+- [x] 确定共同目标成绩
 - 小组会议头脑风暴
   - [ ] 介绍小组的环境和周边，引导阅读 Wiki
   - [ ] 阅读需求文档，分析项目需求
@@ -61,6 +62,7 @@ headerDepth: 2
 ## 开发过程中
 
 - [ ] 检查 BlackBoard 和 邮件 是否有任何项目需求更新
+- [ ] 定期提醒DDL
 - [ ] 必要的代码注释
 - [ ] Javadoc 注释
 - [ ] ~~是否具有弹性重构特性（企业定制软件）~~
