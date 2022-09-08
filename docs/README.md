@@ -45,7 +45,7 @@ footer: GPL3.0 Licensed | Copyright © 2022 GRP15
 - **Due Time: 23:59 PM, November 22, 2022 (11月22日)**  
 - 项目共同目标：20+ / 22
 
-请尽可能保证Wechat 和 Microsoft Teams 在线，以免错过重要通知。
+请尽可能保证 Wechat 和 Microsoft Teams 在线，以免错过重要通知。
 
 :::
 
@@ -66,8 +66,8 @@ footer: GPL3.0 Licensed | Copyright © 2022 GRP15
 
 ::: warning 常见疑问：
 
-- 为什么要使用 Microsoft Teams
-- 正式的项目管理是否真的有效？花费时间真的值得？
+- 为什么要使用 Microsoft Teams：规范的流程以提高效率，以及学校认可贡献证明（时间戳）
+- 正式的项目管理是否真的有效，花费时间真的值得？-> 推荐阅读 [IT项目管理](https://item.jd.com/10037559549453.html)
 - 如何正确求助: [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)和[别像弱智一样提问](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
 
 :::

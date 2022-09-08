@@ -19,9 +19,9 @@ headerDepth: 2
 
 如欲参与该文档修订，可能需要用到
 
-- Git 以及 Github 相关知识
-- Markdown 相关知识
-- Vuepress 编辑技巧
+- [Git 以及 Github 相关知识](https://www.runoob.com/git/git-tutorial.html)
+- [Markdown 相关知识](https://www.runoob.com/markdown/md-tutorial.html)
+- [Vuepress 编辑技巧](https://vuepress.vuejs.org/zh/guide/markdown.htm)
 
 ![1662042365918.png](https://static-file.hjm.red/2022/09/01/4cda0a2e39b2b.png)
 
