@@ -23,17 +23,32 @@ Windows10/11，Macos 10.15.7 +
 <img src="https://static-file.hjm.red/2022/09/02/26e4c29678ae3.png" alt="1662093087486.png" style="zoom:50%;" />
 
 - 请在 Andriod Studio 内设置
-- 选择 Android 12.0 S
+- 选择 **Android 11.0 R**
 
-![1662092942679.png](https://static-file.hjm.red/2022/09/02/431fe31ecb233.png)
+![CleanShot 2022-09-29 at 13.35.02@2x.png](https://static-file.hjm.red/2022/09/29/bf1bc4689fa60.png)
 
 ### Android VM
 
 - 请在 Andriod Studio 内设置
 - Pixel 4
-- Android 12 S
+- 安装 Android 11 R
 
-![1662093167744.png](https://static-file.hjm.red/2022/09/02/ed83c2d175e7d.png)
+![ed83c2d175e7d.png](https://static-file.hjm.red/2022/09/29/3d63e1d978019.png)
+
+::: note
+
+为兼容更多设备，我们的API将使用 Android 11，开发过程中的测试将在 Android 11的虚拟机进行。
+
+最终的实体机测试将在以下设备
+
+- Redmi K20 Pro （Android 11 设备 with Google Play）
+- Redmi K40 Pro （Android 12 设备 with Google Play）
+
+演示过程将使用
+
+- Redmi K20 Pro （Android 11 设备 with Google Play）
+
+:::
 
 ### Chinese Translate
 
