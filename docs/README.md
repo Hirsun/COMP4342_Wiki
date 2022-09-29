@@ -7,7 +7,7 @@ heroText: COMP4342 G15
 tagline: 移动计算小组项目 Wiki 
 actions:
   - text: 开发文档
-    link: dev
+    link: dev/env.html
     type: primary
 
   - text: 用户文档
@@ -22,12 +22,12 @@ features:
 
   - title: 开发文档
     icon: write
-    details: 第一项需要提交的任务<br >占比20%
+    details: 适用于开发者阅读
     link: dev/env.html
 
   - title: 用户文档
     icon: community
-    details: 第二项需要提交的任务<br >占比30%
+    details: 适用于用户阅读以及展示
     link: user
 
   - title: 帮助中心
@@ -53,14 +53,14 @@ footer: GPL3.0 Licensed | Copyright © 2022 GRP15
 
 **会议安排**
 
+- 2022.9.29 周四晚上9:00 - 9:40, Team, [参会链接](https://teams.microsoft.com/l/meetup-join/19%3aI0zX8x3MlhAGqr9Lt1AKXeN34aDCQwgxxJdj8ICRaV41%40thread.tacv2/1664376082728?context=%7b%22Tid%22%3a%22ec09e4d7-3d0f-4eff-9c1e-7ba8060c5417%22%2c%22Oid%22%3a%22c28946e1-50bd-45f3-881d-924d0e4c2825%22%7d)
 - ~~2022年9月2日星期五 晚上8点-9点，Teams 线上，链接见 Teams 群组~~
 
 **协作方式**
 
 - Wechat 群组：日常提示
-- Microsoft Teams 群组：文件协作、正式通知、视频会议
-  - Microsoft Task and Planner：任务安排
-  - Microsoft Outlook：Teams 和 Planner 自动提醒任务
+- [Microsoft Teams 群组](https://teams.microsoft.com/l/channel/19%3aI0zX8x3MlhAGqr9Lt1AKXeN34aDCQwgxxJdj8ICRaV41%40thread.tacv2/%25E5%25B8%25B8%25E8%25A7%2584?groupId=6e060fc8-2e9d-46e9-a85b-b7bff6bab060&tenantId=ec09e4d7-3d0f-4eff-9c1e-7ba8060c5417)：文件协作、正式通知、视频会议
+  - [Microsoft Project (Web)](https://project.microsoft.com/orchanger.com/zh-CN#/taskgrid?projectId=7b10644f-5231-474d-87d6-a9ae990027ea)：任务安排
 
 :::
 
