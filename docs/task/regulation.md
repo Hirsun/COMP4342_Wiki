@@ -5,7 +5,7 @@ order: 4
 headerDepth: 2
 ---
 
-# Requirement and Standard
+# Regulation and Standard
 
 ## 行动守则
 
